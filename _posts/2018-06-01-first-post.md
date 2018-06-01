@@ -7,8 +7,6 @@ categories: jekyll
 
 # Jekyll first post
 
-[TOC]
-
 ## Description
 This is a demo create a Jekyll Post.
 
@@ -34,6 +32,7 @@ categories: jekyll
 
 Contents...
 ```
+Then visit `{baseurl}/{categories}/{YEAR}/{MONTH}/{DAY}/{title}`. 
 
 ## Docs
 1. [Writing posts](https://jekyllrb.com/docs/posts/) --*Jekyll*
