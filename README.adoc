@@ -12,5 +12,8 @@ This is a project test Travis CI and Jekyll.
 . https://jekyllrb.com/[Jekyll]
 . https://travis-ci.org/[Travis CI]
 
+== Other sites
+. https://guides.github.com/[GitHub Gudies]
+
 == License
 MIT
