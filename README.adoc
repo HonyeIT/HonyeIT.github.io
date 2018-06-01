@@ -4,10 +4,13 @@ Honye <hongye.jun@qq.com>
 
 == Description
 
-This is a project to test Travis CI and Jeklly
+This is a project test Travis CI and Jekyll.
 
 == Thanks
 
-. GitHub Pages
-. Jeklly
-. Travis CI
+. https://pages.github.com/[GitHub Pages]
+. https://jekyllrb.com/[Jekyll]
+. https://travis-ci.org/[Travis CI]
+
+== License
+MIT
