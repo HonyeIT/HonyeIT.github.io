@@ -1,3 +1,7 @@
 theme: jekyll-theme-midnight
 title: Honye's Blog
 description: There is no end to learning. 
+
+# Owner/Author information
+owner:
+ name: Honye
